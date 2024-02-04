@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-img-1 {
+    max-width: 100px;
+    min-width: 300px;
+}
+.img {
+    max-width: 100px;
+    min-width: 300px;
+}
+
+.card-shado {
+    box-shadow: 10px 10px  10px rgb(231, 228, 228);
+}
+
+.card-shado:hover {
+    box-shadow: 10px 10px  10px rgb(146, 139, 139);
+}
+.img-row col {
+    width: 400px;
+}
+.img-row img {
+    width: 100%;
+}
